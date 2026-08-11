@@ -15,5 +15,8 @@ A simple calculator website built using **HTML, CSS, and JavaScript**.
 * CSS
 * JavaScript
 
+##live demo
+codealpha-calculators.netlify.app
+
 ## Author
 **Sinchana B K**
